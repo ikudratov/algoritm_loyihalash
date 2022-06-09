@@ -1,6 +1,11 @@
 ## Mutagenezga asoslangan genetik algoritm
 
+
+
 ```bash
+# MUHAMMAD AL-XORAZMIY NOMIDAGI TOSHKENT AXBOROT TEXNOLOGIYALARI UNIVERSITETI
+# 403-21 guruh magistr talabasi Kudratov Iskandar'ning MUSTAQIL ISHI
+
 import numpy as np
 import matplotlib.pyplot as plt
 import openpyxl as xl
